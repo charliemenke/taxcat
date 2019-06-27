@@ -127,7 +127,8 @@ $taxcat = function($args, $assoc_args) {
 
 };
 
-WP_CLI::add_command( 'taxcat', $taxcat );
+WP_CLI::add_command('taxcat', $taxcat);
+
 
 
 

@@ -12,7 +12,8 @@
     },
     "require": {
         "wp-cli/wp-cli": "^2.2.0",
-        "vlucas/phpdotenv": "^3.4"
+        "vlucas/phpdotenv": "^3.4",
+        "ext-json": "*"
     },
     "require-dev": {
         "behat/behat": "~2.5"
