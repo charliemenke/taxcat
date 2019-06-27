@@ -17,7 +17,7 @@ Installing this package requires WP-CLI v2.2.0 or greater. Update to the latest 
 
 Once you've done so, you can install this package with:
 
-    wp package install git@github.com:charliemenke/taxcat.git
+    wp package install https://github.com/charliemenke/taxcat
 
 ## Contributing
 
